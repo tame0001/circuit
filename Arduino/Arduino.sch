@@ -311,4 +311,17 @@ F 5 "C14877" H 5900 5000 50  0001 C CNN "JLC"
 	1    5900 5000
 	1    0    0    -1  
 $EndComp
+$Comp
+L Device:Crystal_GND24 Y?
+U 1 1 5FF3BE14
+P 7550 4750
+F 0 "Y?" H 7650 4950 50  0000 L CNN
+F 1 "16MHz" H 7650 4550 50  0000 L CNN
+F 2 "Crystals:Crystal_SMD_3225-4pin_3.2x2.5mm" H 7550 4750 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/Yangxing-Tech-X322516MLB4SI_C13738.pdf" H 7550 4750 50  0001 C CNN
+F 4 "" H 7550 4750 50  0001 C CNN "Digikey"
+F 5 "C13738" H 7550 4750 50  0001 C CNN "JLC"
+	1    7550 4750
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
