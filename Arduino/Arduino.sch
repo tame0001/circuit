@@ -792,4 +792,17 @@ F 3 "" H 2500 4700 50  0001 C CNN
 	1    2500 4700
 	1    0    0    -1  
 $EndComp
+$Comp
+L Device:Q_NMOS_GSD Q?
+U 1 1 6002F040
+P 2650 6050
+F 0 "Q?" H 2856 6096 50  0000 L CNN
+F 1 "AO3400A" H 2856 6005 50  0000 L CNN
+F 2 "TO_SOT_Packages_SMD:SOT-23" H 2850 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/Alpha-Omega-Semicon-AOS-AO3400A_C20917.pdf" H 2650 6050 50  0001 C CNN
+F 4 "785-1000-1-ND" H 2650 6050 50  0001 C CNN "Digikey"
+F 5 "C20917" H 2650 6050 50  0001 C CNN "JLC"
+	1    2650 6050
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
